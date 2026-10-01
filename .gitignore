@@ -1,0 +1,11 @@
+# local-only material (copyrighted source texts, teaching corpus, regenerable features)
+_local/
+data/function_words_200/
+# OS / editor
+.DS_Store
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+__pycache__/
+*.pyc

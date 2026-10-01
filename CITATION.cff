@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Stylometric detection of AI-generated texts: evidence from human and machine-written essays"
+authors:
+  - family-names: Chen
+    given-names: Rongzhi
+  - family-names: Xiong
+    given-names: Shizhao
+  - family-names: He
+    given-names: Jingqi
+  - family-names: Ross
+    given-names: Gordon J.
+date-released: 2026
+doi: 10.1093/llc/fqag064
+journal: "Digital Scholarship in the Humanities"
+publisher: "Oxford University Press"
+url: https://doi.org/10.1093/llc/fqag064
+license: MIT
